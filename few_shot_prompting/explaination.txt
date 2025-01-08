@@ -1,1 +1,3 @@
 @hoor  write the breif explaination of your work and steps here 
+Few-shot prompting, in the context of legal documents, involves providing a machine learning model with a small number of examples (usually 1 to 10) of how to handle a particular legal task or interpret specific legal language. By using these examples in the prompt, the model is expected to generalize and apply that learned behavior to new, unseen legal documents. 
+##this is what I get but baki right now I have no idea ke kesa data process krna or kia required hai ##
