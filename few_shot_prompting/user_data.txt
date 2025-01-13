@@ -1,0 +1,5 @@
+name: Asif Chaudary
+father_name: Riaz Ahmed
+address: 59 C Model Town
+residence_since: 2010
+nic: 35202-462987-09
